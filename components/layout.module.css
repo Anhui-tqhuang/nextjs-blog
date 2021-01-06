@@ -4,6 +4,14 @@
   margin: 3rem auto 6rem;
 }
 
+.bg {
+  background: url('../public/images/bg.jpg') no-repeat;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .header {
   display: flex;
   flex-direction: column;
