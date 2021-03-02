@@ -33,13 +33,13 @@ Mostly, the DPT is used in three places:
 
 #### Virtual Private Endpoint
 
-It's a requirement from IBM Cloud, IBM Cloud has a framework called virtual private cloud (VPC), in order to let customers connect to an ICD instance inside a VPC, we have to some integration.
+It's a requirement from IBM Cloud, IBM Cloud has a framework called virtual private cloud (VPC), in order to let customers connect to an ICD instance inside a VPC, we have to do some integration.
 
 #### Satellite
 
 It's also a framework on IBM Cloud.
 
-it looks like a real private cloud, we provide DB services, but all components are installed on the data center which belongs to customers, in this situation, we have to some re-factory or involve some new components to support it like alert-controller/alert-forwarder.
+it looks like a real private cloud, we provide DB services, but all components are installed on the data center which belongs to customers, in this situation, we have to do some re-factory work or involve some new components to support it like alert-controller/alert-forwarder.
 
 #### Others
 
@@ -55,4 +55,4 @@ Honestly it's really a nice place to work as a first-step in the journey:
 - grow up quickly, i really learnt much from folks around the global team, most of them are very friendly and easy to get along.
 - there are so many advantages i can't say....
 
-Anyway it's sad to leave.
+Great wishes.
